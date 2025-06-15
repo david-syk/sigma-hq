@@ -4059,3 +4059,17 @@ https://blog.eclecticiq.com/sandworm-apt-targets-ukrainian-users-with-trojanized
 https://www.trendmicro.com/en_us/research/18/d/new-macos-backdoor-linked-to-oceanlotus-found.html
 https://ssd-disclosure.com/ssd-advisory-common-log-file-system-clfs-driver-pe/
 https://web.archive.org/web/20180718061628/https://securitybytes.io/blue-team-fundamentals-part-two-windows-processes-759fe15965e2
+https://tria.ge/240226-fhbe7sdc39/behavioral1
+https://github.com/sadshade/veeam-creds/blob/6010eaf31ba41011b58d6af3950cffbf6f5cea32/Veeam-Get-Creds.ps1
+https://learn.microsoft.com/fr-fr/windows-server/administration/windows-commands/fsutil-behavior
+https://github.com/xephora/Threat-Remediation-Scripts/tree/main/Threat-Track/CS_INSTALLER
+https://tria.ge/231212-r1bpgaefar/behavioral2
+https://www.virustotal.com/gui/file/e96a0c1bc5f720d7f0a53f72e5bb424163c943c24a437b1065957a79f5872675
+https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-wkst/55118c55-2122-4ef9-8664-0c1ff9e168f3
+https://www.loobins.io/binaries/xattr/
+https://mp.weixin.qq.com/s/wUoBy7ZiqJL2CUOMC-8Wdg
+https://labs.nettitude.com/blog/introducing-sharpwsus/
+https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#azure-ad-threat-intelligence-user
+https://www.cve.org/CVERecord?id=CVE-2024-1709
+https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#malware-linked-ip-address-deprecated
+https://web.archive.org/web/20160727113019/https://answers.microsoft.com/en-us/protect/forum/mse-protect_scanning/microsoft-antimalware-has-removed-history-of/f15af6c9-01a9-4065-8c6c-3f2bdc7de45e
